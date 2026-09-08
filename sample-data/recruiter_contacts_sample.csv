@@ -1,0 +1,4 @@
+Company,Email,Recruiter Name,Status,Sent Date,Follow-up 02 Status,Follow-up 02 Date,Follow-up 03 Status,Follow-up 03 Date,Follow-up 04 Status,Follow-up 04 Date,Thread ID
+ExampleCorp,recruiter1@example.com,Alex,Pending,,,,,,,,
+ExampleTech,recruiter2@example.com,Sam,Pending,,,,,,,,
+ExampleLabs,hr@example.com,,Pending,,,,,,,,
