@@ -1,0 +1,16 @@
+.clasp.json
+.clasprc.json
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.json
+*.pdf
+*.xlsx
+*.xls
+private/
+secrets/
+.DS_Store
+.vscode/
+.idea/
